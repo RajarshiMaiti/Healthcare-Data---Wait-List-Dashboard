@@ -1,4 +1,5 @@
 **Project Overview: Power BI Wait List Analysis:-**
+
 **Introduction:-**
 This Power BI project aims to analyze wait list data across various medical case types and demographics. By providing insights into average and median wait times, the project enables healthcare administrators to identify trends and areas for improvement in patient management and resource allocation.
 
